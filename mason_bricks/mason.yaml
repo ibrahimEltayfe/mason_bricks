@@ -1,9 +1,0 @@
-bricks:
-  constants:
-    path: ./constants/
-
-  dio:
-    path: ./dio_flutter_project/
-
-  firebase_flutter_project:
-    path: ./firebase_flutter_project/
