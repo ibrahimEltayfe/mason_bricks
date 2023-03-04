@@ -1,3 +1,3 @@
 # riverpod
 
-A mason brick to generate riverpod state notifier class and its states.
+A mason brick to generate riverpod state notifier provider and its states.
