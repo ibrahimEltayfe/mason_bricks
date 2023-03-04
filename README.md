@@ -1,7 +1,8 @@
 # Flutter Mason Bricks.
 
-'''
-── mason_bricks
+```
+ mason_bricks
   └── riverpod
-'''
+  └── README.md
+```
 
