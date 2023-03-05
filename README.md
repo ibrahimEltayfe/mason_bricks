@@ -7,15 +7,25 @@
 
 ```
 ├── README.md
+
 ├── mason_bricks
+
  └── riverpod_state_notifier
+
   └── __brick__
+
    ├── {{name.snakeCase()}}_provider.dart
+
    └── {{name.snakeCase()}}_state.dart 
+
   ├── CHANGELOG.md
+
   ├── LICENSE
+
   ├── README.md
+
   ├── brick.yaml
+
 ```
 
 
