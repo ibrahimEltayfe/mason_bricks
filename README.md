@@ -5,7 +5,7 @@
 
 mason make riverpod_state_notifier
 
-
+</pre>
 
 #structure
 ```
