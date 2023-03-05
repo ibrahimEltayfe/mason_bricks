@@ -4,6 +4,7 @@
 <pre>mason make riverpod_state_notifier </pre>
 
 <h2>Structure</h2>
+
 ```
 README.md
 mason_bricks
