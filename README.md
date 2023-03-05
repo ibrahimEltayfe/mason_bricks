@@ -1,7 +1,7 @@
 # Flutter Mason Bricks.
 
 #installation
-> - mason make riverpod_state_notifier
+<pre> mason make riverpod_state_notifier </pre>
 
 ```
 README.md
