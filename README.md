@@ -2,7 +2,7 @@
 
 <h2>installation</h2>
 
-<pre>mason add riverpod_state_notifier --git-url https://github.com/ibrahimEltayfe/bianat_mobile/tree/main/mason_bricks/ --git-path ./gql_data_layer</pre>
+<pre>mason add riverpod_state_notifier --git-url https://github.com/ibrahimEltayfe/mason_bricks --git-path ./riverpod_state_notifier</pre>
 
 <h2>Usage</h2>
 
